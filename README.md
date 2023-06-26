@@ -50,6 +50,10 @@ Palantir:        https://www.nature.com/articles/s41587-019-0068-4
   - github:     https://github.com/dpeerlab/Palantir
   - tutorial:   https://nbviewer.org/github/dpeerlab/Palantir/blob/master/notebooks/Palantir_sample_notebook.ipynb
 
+STREAM:   https://www.nature.com/articles/s41467-019-09670-4
+ - github: https://stream.pinellolab.partners.org/
+ - tutorial: https://stream.pinellolab.partners.org/compute/STREAM_17a0ae4c-bc9b-476e-80e4-37b89fbf1fa8
+
 Trajectory alignment:
 -----------------------
 Capital:       https://www.nature.com/articles/s41467-022-33681-3
