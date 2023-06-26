@@ -1,16 +1,19 @@
 # TRABAJO
+TRABAJO= TrajectoryBasedJupyterNotebooks 
+- a set of jupyternotebooks for pseudotime analysis using variety of selected tools
+- slides with a brief description of TRABAJO are included in "pseudotime_slides.pdf"
+
+
 
 Best practices for single-cell analysis across modalities:
 https://www.nature.com/articles/s41576-023-00586-w
-
-
 
 Interesting and brief summary for pseudotime analysis:
 https://blog.bioturing.com/2022/06/13/single-cell-rna-seq-trajectory-analysis-review/
 
 *Dynverse*:     https://www.nature.com/articles/s41587-019-0071-9
-- github/web: https://dynverse.org/
-- tutorial:   https://dynverse.org/dyno/index.html
+- github/web:   https://dynverse.org/
+- tutorial:     https://dynverse.org/dyno/index.html
 
 
 Selected tools suitable for pseudotime analysis of time-series
