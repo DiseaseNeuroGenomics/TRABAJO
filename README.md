@@ -1,8 +1,17 @@
 # TRABAJO
 
+Best practices for single-cell analysis across modalities:
+https://www.nature.com/articles/s41576-023-00586-w
+
+
 
 Interesting and brief summary for pseudotime analysis:
 https://blog.bioturing.com/2022/06/13/single-cell-rna-seq-trajectory-analysis-review/
+
+*Dynverse*:     https://www.nature.com/articles/s41587-019-0071-9
+- github/web: https://dynverse.org/
+- tutorial:   https://dynverse.org/dyno/index.html
+
 
 Selected tools suitable for pseudotime analysis of time-series
 --------------------------------------------------------------
@@ -33,7 +42,10 @@ Diffusion map:     https://www.nature.com/articles/nmeth.3971
 VIA:              https://www.nature.com/articles/s41467-021-25773-3
   - github:       https://github.com/ShobiStassen/VIA
   - tutorial:     https://pyvia.readthedocs.io/en/latest/
-
+  
+Palantir:        https://www.nature.com/articles/s41587-019-0068-4
+  - github:     https://github.com/dpeerlab/Palantir
+  - tutorial:   https://nbviewer.org/github/dpeerlab/Palantir/blob/master/notebooks/Palantir_sample_notebook.ipynb
 
 Trajectory alignment:
 -----------------------
